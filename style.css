@@ -1,0 +1,38 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+footer {
+  background-color: #e2edff;
+}
+
+img {
+  width: 200px;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+.card img {
+  height: 400px;
+  width: 100%;
+  object-fit: cover;
+}
+
+.projects {
+  background-color: #e2edff;
+}
+
+.btn {
+  background-color: #aed2ff;
+}
+
+.btn:hover {
+  background-color: #e2edff;
+}
